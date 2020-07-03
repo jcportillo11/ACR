@@ -1,0 +1,1 @@
+<?php include_once($PATH . "views/nav.php")?>

@@ -1,0 +1,12 @@
+.ACR-bg-primary{
+    background-color: #273BB4;
+}
+.ACR-add-link{
+    color:green !important;
+    cursor: pointer;
+}
+.ACR-delete-link{
+    color:red !important;
+    cursor: pointer;
+}
+

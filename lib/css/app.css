@@ -1,0 +1,41 @@
+body{
+    background-color: #F8F9FA;
+}
+section{
+    min-height: 70vh;
+}
+.car-item{
+    background-color: white;
+}
+.price-box{
+    background-color: #9AEC64;
+    width: 100%;
+    border-radius: 1rem;
+}
+.loading, 
+.shoppingCart{
+    position: fixed;
+    background-color: white;
+    z-index: 2;
+    height: 100%;
+    width: 100%;
+}
+.shoppingCart{
+    background-color: rgba(0,0,0,.8);
+}
+.shoppingCart>div{
+    background-color: white;
+}
+.viewShopping{
+    cursor: pointer;
+}
+.car-item img,
+.shoppingCart img{
+    width: inherit;
+    height: 10rem;
+}
+#footer, #copy{
+    font-size: 0.8rem;
+    background-color: #273BB4;
+    color: white;
+}
